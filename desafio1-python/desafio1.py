@@ -33,7 +33,7 @@ def main():
   room = entrance
   while True:
     select = input("Digite o movimento: ")
-    if select == 'N':
+    if select == 'N ':
         select = 0
     elif select == 'L':
         select = 1
